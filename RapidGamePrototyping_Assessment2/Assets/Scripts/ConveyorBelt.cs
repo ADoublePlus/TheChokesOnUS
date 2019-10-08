@@ -3,7 +3,9 @@
 public class ConveyorBelt : MonoBehaviour
 {
     public GameObject belt;
+
     public Transform endPoint;
+
     public float speed;
 
     void OnTriggerStay(Collider other)

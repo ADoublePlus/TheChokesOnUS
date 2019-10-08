@@ -57,7 +57,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ConveyorBelt.cs" />
+    <Compile Include="Assets\Scripts\CameraPlane.cs" />
+    <Compile Include="Assets\Scripts\ConveyorBelt.cs" />
+    <Compile Include="Assets\Scripts\DragRigidbody.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/jmwon/Documents/GitHub/TheChokesOnUS/RapidGamePrototyping_Assessment2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
